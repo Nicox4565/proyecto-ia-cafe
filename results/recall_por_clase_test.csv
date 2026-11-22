@@ -1,0 +1,6 @@
+model,cercospora,miner,phoma,rust
+dummy,0.0,0.0,0.0,1.0
+logreg_color,0.138,0.203,0.617,0.505
+cnn_scratch,0.517,0.768,0.695,0.892
+resnet50,0.713,0.881,0.773,0.95
+resnet50_deg,0.759,0.864,0.779,0.95

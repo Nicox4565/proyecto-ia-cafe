@@ -1,0 +1,4 @@
+comparacion,dif_macro_f1,ic95_dif_por_grupos,discordantes,p_mcnemar
+resnet50 vs logreg_color,0.46,"[0.407, 0.508]",397,3.6417218634699286e-76
+resnet50 vs cnn_scratch,0.096,"[0.043, 0.145]",109,8.783035418793241e-10
+resnet50 vs resnet50_deg,-0.004,"[-0.030, 0.020]",23,1.0

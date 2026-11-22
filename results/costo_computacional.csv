@@ -1,0 +1,10 @@
+modelo,semilla,parametros,minutos,epocas
+cnn_scratch,42,391364,19.5,16
+cnn_scratch,43,391364,14.1,12
+cnn_scratch,44,391364,11.4,9
+resnet50,42,24113284,26.3,20
+resnet50,43,24113284,21.7,16
+resnet50,44,24113284,32.2,23
+resnet50_deg,42,24113284,29.2,21
+resnet50_deg,43,24113284,19.3,14
+resnet50_deg,44,24113284,34.0,23

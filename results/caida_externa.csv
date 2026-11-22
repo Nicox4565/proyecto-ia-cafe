@@ -1,0 +1,6 @@
+model,val,test,external,caida_test_a_externa
+dummy,0.213,0.218,0.1,0.118
+logreg_color,0.412,0.324,0.288,0.036
+cnn_scratch,0.622,0.667,0.294,0.373
+resnet50,0.723,0.78,0.414,0.366
+resnet50_deg,0.721,0.784,0.442,0.343
